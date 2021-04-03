@@ -25,7 +25,6 @@ def boga():
     burc = (data[0].contents) [len(data[0].contents) -6]
     burcYorum = burc.text
     return burcYorum
-boga()
 
 def ikizler():
     r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/ikizler-burcu-gunluk-yorumu.html")
