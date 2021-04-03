@@ -3,6 +3,14 @@ from setuptools import setup , find_packages
 with open("README.md",  "r") as fh:
     long_description = fh.read()
 
+classifiers = [
+  'Development Status :: 5 - Production/Stable',
+  'Intended Audience :: Education',
+  'Operating System :: Microsoft :: Windows :: Windows 10',
+  'License :: OSI Approved :: MIT License',
+  'Programming Language :: Python :: 3'
+]
+
 setup(
     name = "Burclar",
     version = "0.0.1",
@@ -11,17 +19,10 @@ setup(
     description = "Basit bir burc modulu.",
     long_description = long_description,
     packages=find_packages(),
-    keywords = ['burclar' , 'burcapi' , 'python' , 'BurcApi']
+    keywords = ['burclar' , 'burcapi' , 'python' , 'BurcApi'],
     url ="https://github.com/The-Special/Burc-api",
     license='MIT', 
-    classifiers = [
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.9",
-        "Programming Language :: Python :: 2.7.15",
-        "Programming Language :: Python :: 3.8",
-        "Lisence :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent,"
-    ],
+    classifiers = classifiers,
     install_requires = [
         "requests" ,
         "beautifulsoup4",
