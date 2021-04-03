@@ -7,7 +7,7 @@ setup(
     name = "Burclar",
     version = "0.0.1",
     author = "Special",
-    author_email = "mert.special0@gmail.com",
+    author_email = "mert.twelvesky@gmail.com",
     description = "Basit bir burc modulu.",
     long_description = long_description,
     package_dir = {'' : 'src'},
