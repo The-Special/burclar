@@ -7,9 +7,9 @@ Bu modülü daha fazla geliştireceğim ve geliştirdiklerimi size sunacağım.
 ```
 Örnek Kullanım:
 
-import burcApi
+import burclar
 
-boga = burcApi.boga()
+boga = burclar.boga()
 
 print(boga)
 
