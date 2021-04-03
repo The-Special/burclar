@@ -10,10 +10,11 @@ setup(
     author_email = "mert.special0@gmail.com",
     description = "Basit bir burc modulu.",
     long_description = long_description,
-    py_modules = ["Burclar"],
     package_dir = {'' : 'src'},
+    packages=find_packages(),
+    keywords = ['burclar' , 'burcapi' , 'python' , 'BurcApi']
     url ="https://github.com/The-Special/Burc-api",
-    
+    license='MIT', 
     classifiers = [
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.9",
