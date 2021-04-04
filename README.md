@@ -1,7 +1,7 @@
 #Burç Modülü
 
 
-Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler için kullanima sunuyorum.
+- Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler için kullanima sunuyorum.
 Modulun kullanimi asiri basit:
 
 
