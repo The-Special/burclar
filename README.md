@@ -39,3 +39,5 @@ Burclar:
 -oglak
 
 Modulu kullandiginiz için tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
+
+`İsmim geçmeden veya bana sormadan proje hakkında i
