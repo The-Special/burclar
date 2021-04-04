@@ -10,9 +10,9 @@ Ornek Kullanim:
 
 from burclar import burclar
 
-yay = burclar.yay() #Buraya yay yerine burclarin adini yazarak istediginiz gündelik burç bilgisini alabilirsiniz.
+yay = burclar.yay() #Buraya yay yerine burclarin adini yazarak istediginiz gundelik burc bilgisini alabilirsiniz.
 
-yay = burclar.yayHaftalik() #Buraya yay yerine burclarin adini yazarak istediginiz haftalık burç bilgisini alabilirsiniz.
+yay = burclar.yayHaftalik() #Buraya yay yerine burclarin adini yazarak istediginiz haftalik burc bilgisini alabilirsiniz.
 
 
 print(yay) # Konsola çiktisini verir.
