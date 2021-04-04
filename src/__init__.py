@@ -1,6 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
+"""
+Bu modül burçlar ile ilgilenen arkadaşlarımın işine yarayacaktır.
+Çok basit bir kullanımı mevcuttur.
+Bir sorunuz olursa seve seve yardım etmek isterim profilimdeki linklerden bana ulaşabilirsiniz.
 
+"""
 class burclar:
     def yengec():
         r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/yengec-burcu-gunluk-yorumu.html")
@@ -97,22 +102,3 @@ class burclar:
         burc = (data[0].contents) [len(data[0].contents) -6]
         burcYorum = burc.text
         return burcYorum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
