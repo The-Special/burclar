@@ -40,4 +40,4 @@ Burclar:
 
 Modulu kullandiginiz için tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
 
-`İsmim geçmeden veya bana sormadan proje hakkında i
+`Proje hakkında yapıcağınız işlemlerde bir hata almanız durumunda bana danışmanız sizler açısından daha iyi olur.`
