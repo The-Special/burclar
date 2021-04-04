@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-class Burçlar:
+class burclar:
     def yengec():
     r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/yengec-burcu-gunluk-yorumu.html")
     soup = BeautifulSoup(r.content , "html.parser")
