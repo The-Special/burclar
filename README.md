@@ -1,34 +1,41 @@
 #Burç Modülü
 
 
-Bu modülü buçlar hakkında gündelik bir şekilde daha kolay bilgi alın diye yaptım.
-Bu modülü daha fazla geliştireceğim ve geliştirdiklerimi size sunacağım.
+Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler için kullanima sunuyorum.
+Modulun kullanimi asiri basit:
+
 
 ```
-Örnek Kullanım:
+Ornek Kullanim:
 
-import burclar
+from burclar import burclar
 
-boga = burclar.boga()
+yay = burclar.yay() #Buraya yay yerine burclarin adini yazarak istediginiz bilgiyi alabilirsiniz.
 
-print(boga)
+print(yay) # Konsola çiktisini verir.
+
+"""
+Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir.
+
+"""
+
 
 ```
-Bunun hariçinde bir kullanımı yoktur. Boga yazan yerlere farklı burçları yazarak bilgiler alabilirsiniz.
+Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
 
-Burçlar:
+Burclar:
 
-- terazi
-- boga
-- yay
-- akrep
-- kova
-- aslan
-- ikizler
-- balık
-- koc
-- yengec
-- basak
-- oglak
+-terazi
+-boga
+-yay
+-akrep
+-kova
+-aslan
+-ikizler
+-balik 
+-koc
+-yengec
+-basak
+-oglak
 
-Modülü kullandığınız için teşekkür ederim , en kısa zamanda daha gelişmişini sizlerin huzuruna sunacağım.
+Modulu kullandiginiz için tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
