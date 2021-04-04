@@ -95,8 +95,104 @@ class burclar:
         burcYorum = burc.text
         return burcYorum
 
-    def balık():
+    def balik():
         r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/balik-burcu-gunluk-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def yengecHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/yengec-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def kocHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/koc-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+    
+    def bogaHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/boga-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+    
+    def ikizlerHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/ikizler-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def aslanHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/aslan-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def basakHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/basak-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def teraziHaftalik():
+        r = requests.get("https://www.mynet.com/kadin/burclar-astroloji/terazi-burcu-haftalik-yorumu.html")
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def akrepHaftalik():
+        r = requests.get('https://www.mynet.com/kadin/burclar-astroloji/akrep-burcu-haftalik-yorumu.html')
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+    
+    def yayHaftalik():
+        r = requests.get('https://www.mynet.com/kadin/burclar-astroloji/yay-burcu-haftalik-yorumu.html')
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def oglakHaftalik():
+        r = requests.get('https://www.mynet.com/kadin/burclar-astroloji/oglak-burcu-haftalik-yorumu.html')
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def kovaHaftalik():
+        r = requests.get('https://www.mynet.com/kadin/burclar-astroloji/kova-burcu-haftalik-yorumu.html')
+        soup = BeautifulSoup(r.content , "html.parser")
+        data = soup.find_all("div" , {"class":"detail-content-inner"})
+        burc = (data[0].contents) [len(data[0].contents) -6]
+        burcYorum = burc.text
+        return burcYorum
+
+    def balikHaftalik():
+        r = requests.get('https://www.mynet.com/kadin/burclar-astroloji/balik-burcu-haftalik-yorumu.html')
         soup = BeautifulSoup(r.content , "html.parser")
         data = soup.find_all("div" , {"class":"detail-content-inner"})
         burc = (data[0].contents) [len(data[0].contents) -6]
