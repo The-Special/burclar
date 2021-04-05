@@ -45,10 +45,8 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 
 `Proje hakkında yapıcağınız işlemlerde bir hata almanız durumunda bana danışmanız sizler açısından daha iyi olur.`
 
-```
-Version: 1.0.0 [04.04.2021]
+```Version: 1.0.0 [04.04.2021]
 
 Version: 1.0.1 [05.04.2021]
-
 ```
 
