@@ -28,7 +28,7 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 
 - Burclar:
 
--terazi
+`-terazi
 -boga
 -yay
 -akrep
@@ -39,7 +39,7 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 -koc
 -yengec
 -basak
--oglak
+-oglak`
 
 - Modulu kullandiginiz için tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
 
