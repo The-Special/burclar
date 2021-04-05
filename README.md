@@ -1,4 +1,4 @@
-#Burç Modülü
+# Burç Modülü
 
 
 - Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler için kullanima sunuyorum.
