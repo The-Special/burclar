@@ -30,16 +30,27 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 
 ```
 -terazi , teraziHaftalik
+
 -boga , bogaHaftalik
+
 -yay , yayHaftalik
+
 -akrep , akrepHaftalik
+
 -kova , kovaHaftalik
+
 -aslan , aslanHaftalik
+
 -ikizler , ikizlerHaftalik
+
 -balik , balikHaftalik
+
 -koc , kocHaftalik
+
 -yengec , yengecHaftalik
+
 -basak , basakHaftalik
+
 -oglak , oglakHaftalik
 ```
 
