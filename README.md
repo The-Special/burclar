@@ -28,18 +28,20 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 
 - Burclar:
 
-`-terazi
--boga
--yay
--akrep
--kova
--aslan
--ikizler
--balik 
--koc
--yengec
--basak
--oglak`
+```
+-terazi , teraziHaftalik
+-boga , bogaHaftalik
+-yay , yayHaftalik
+-akrep , akrepHaftalik
+-kova , kovaHaftalik
+-aslan , aslanHaftalik
+-ikizler , ikizlerHaftalik
+-balik , balikHaftalik
+-koc , kocHaftalik
+-yengec , yengecHaftalik
+-basak , basakHaftalik
+-oglak , oglakHaftalik
+```
 
 - Modulu kullandiginiz için tesekkur ederim , vaktim oldugu zamanlar modulu gelistirecegim.
 
