@@ -62,5 +62,7 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 Version: 1.0.0 [04.04.2021]
 
 Version: 1.0.1 [05.04.2021]
+
+Version: 1.0.2 [05.04.2021]
 ```
 
