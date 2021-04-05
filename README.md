@@ -41,6 +41,6 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 -basak
 -oglak`
 
-- Modulu kullandiginiz için tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
+- Modulu kullandiginiz için tesekkur ederim , vaktim oldugu zamanlar modulu gelistirecegim.
 
 `Proje hakkında yapıcağınız işlemlerde bir hata almanız durumunda bana danışmanız sizler açısından daha iyi olur.`
