@@ -22,14 +22,6 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 """
 ```
 
-```
-Ornek Kullanim V2:
-
-from burclar_oz import burclar
-
-yay = burclar_oz.yay() & burclar_oz.yay('ozellikleri') #Buraya yay yerine burclarin adini yazarak istediginiz burcun ozellik bilgisini alabilirsiniz.
-
-```
 
 - Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
 
