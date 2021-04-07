@@ -79,47 +79,39 @@ class burclar_oz:
             raise Exception(f"Geçerli bir burç giriniz. ({burcStr})")
         return makeAPIRequestOz(name, type)
 
-    def yengecOz(type = "ozellikleri") -> str:
+    def yengec(type = "ozellikleri") -> str:
         return makeAPIRequestOz("yengec", type)
 
-    def kocOz(type = "ozellikleri") -> str:
+    def koc(type = "ozellikleri") -> str:
         return makeAPIRequestOz("koc", type)
 
-    def bogaOz(type = "ozellikleri") -> str:
+    def boga(type = "ozellikleri") -> str:
         return makeAPIRequestOz("boga", type)
 
-    def ikizlerOz(type = "ozellikleri") -> str:
+    def ikizler(type = "ozellikleri") -> str:
         return makeAPIRequestOz("ikizler", type)
 
-    def aslanOz(type = "ozellikleri") -> str:
+    def aslan(type = "ozellikleri") -> str:
         return makeAPIRequestOz("aslan", type)
 
-    def basakOz(type = "ozellikleri") -> str:
+    def basak(type = "ozellikleri") -> str:
         return makeAPIRequestOz("basak", type)
 
-    def teraziOz(type = "ozellikleri") -> str:
+    def terazi(type = "ozellikleri") -> str:
         return makeAPIRequestOz("terazi", type)
 
-    def akrepOz(type = "ozellikleri") -> str:
+    def akrep(type = "ozellikleri") -> str:
         return makeAPIRequestOz("akrep", type)
 
-    def yayOz(type = "ozellikleri") -> str:
+    def yay(type = "ozellikleri") -> str:
         return makeAPIRequestOz("yay", type)
 
-    def oglakOz(type = "ozellikleri") -> str:
+    def oglak(type = "ozellikleri") -> str:
         return makeAPIRequestOz("oglak", type)
 
-    def kovaOz(type = "ozellikleri") -> str:
+    def kova(type = "ozellikleri") -> str:
         return makeAPIRequestOz("kova", type)
 
-    def balikOz(type = "ozellikleri") -> str:
+    def balik(type = "ozellikleri") -> str:
         return makeAPIRequestOz("balik", type)
-
-
-
-
-
-
-
-
 
