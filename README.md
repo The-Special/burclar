@@ -27,7 +27,7 @@ Ornek Kullanim V2:
 
 from burclar_oz import burclar
 
-yay = burclar_oz.yayOz() & burclar_oz.yayOz('ozellikleri') #Buraya yay yerine burclarin adini yazarak istediginiz burcun ozellik bilgisini alabilirsiniz.
+yay = burclar_oz.yay() & burclar_oz.yay('ozellikleri') #Buraya yay yerine burclarin adini yazarak istediginiz burcun ozellik bilgisini alabilirsiniz.
 
 ```
 
