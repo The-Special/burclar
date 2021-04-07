@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='burclar',
-  version='1.0.2',
+  version='1.1.0',
   description='Basit bir burç modülü.',
   long_description_content_type="text/markdown",
   long_description=open('README.md').read(),
