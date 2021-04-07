@@ -1,4 +1,6 @@
-Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
+# BURÇ MODÜLÜ
+
+- Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
 Modulun kullanimi asiri basit:
 
 
@@ -29,9 +31,9 @@ yay = burclar_oz.yayOz() & burclar_oz.yayOz('ozellikleri') #Buraya yay yerine bu
 
 ```
 
-Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
+- Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
 
-Burclar:
+- Burclar:
 
 -terazi
 -boga
@@ -46,4 +48,4 @@ Burclar:
 -basak
 -oglak
 
-Modulu kullandiginiz icin tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
+- Modulu kullandiginiz icin tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
