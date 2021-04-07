@@ -1,6 +1,4 @@
-# BURÇ MODÜLÜ
-
-- Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
+Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
 Modulun kullanimi asiri basit:
 
 
@@ -21,13 +19,20 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 
 """
 ```
+```
+Ornek Kullanim V2:
 
+from burclar import burclarOz 
 
-- Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
+yay = burclarOz.yay() & burclarOz.yay('ozellikleri') #Buraya yay yerine burclarin adini yazarak istediginiz burcun ozellik bilgisini alabilirsiniz.
 
-- Burclar:
+print(yay)
+```
 
-`
+Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
+
+Burclar:
+
 -terazi
 -boga
 -yay
@@ -40,6 +45,5 @@ Gundelik olarak her gun kendini duzenler ve sadece burc yorum kismini size verir
 -yengec
 -basak
 -oglak
-`
 
-- Modulu kullandiginiz icin tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
+Modulu kullandiginiz icin tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
