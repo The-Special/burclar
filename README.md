@@ -35,6 +35,7 @@ yay = burclar_oz.yayOz() & burclar_oz.yayOz('ozellikleri') #Buraya yay yerine bu
 
 - Burclar:
 
+`
 -terazi
 -boga
 -yay
@@ -47,5 +48,6 @@ yay = burclar_oz.yayOz() & burclar_oz.yayOz('ozellikleri') #Buraya yay yerine bu
 -yengec
 -basak
 -oglak
+`
 
 - Modulu kullandiginiz icin tesekkur ederim , en kisa zamanda daha gelismisini sizlerin huzuruna sunacagim.
