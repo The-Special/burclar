@@ -1,7 +1,7 @@
 [![Version](https://badge.fury.io/py/burclar.svg)](https://pypi.python.org/pypi/burclar)
 [![Downloads](https://img.shields.io/pypi/dm/burclar.svg)](https://pypi.python.org/pypi/burclar)
 ![Stars](https://img.shields.io/github/stars/The-Special/burclar)
-![Commits](https://img.shields.io/github/commit-activity/w/The-Special/burclar)
+![Commits](https://img.shields.io/github/commit-activity/The-Special/burclar)
 
 Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
 Modulun kullanimi asiri basit:
