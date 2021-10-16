@@ -15,7 +15,7 @@ def makeAPIRequest(path: str, type: str) -> str:
         f"https://www.mynet.com/kadin/burclar-astroloji/{path}-burcu-{type}-yorumu.html")
     soup = BeautifulSoup(r.content, "html.parser")
     data = soup.find_all("div", {"class": "detail-content-inner"})
-    burc = (data[0].contents)[len(data[0].contents) - 6]
+    burc = (data[0].contents)[len(data[0].contents) - 5]
     burcYorum = burc.text
     return burcYorum
 
