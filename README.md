@@ -50,6 +50,7 @@ print(yay)
 - koc
 - yengec
 - basak
-- oglak```
+- oglak
+```
 
 Modulu kullandiginiz icin tesekkur ederim.
