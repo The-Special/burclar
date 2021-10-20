@@ -36,9 +36,9 @@ print(yay)
 
 Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
 
-```Burclar:
+Burclar:
 
--terazi
+```-terazi
 -boga
 -yay
 -akrep
@@ -49,7 +49,6 @@ Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak 
 -koc
 -yengec
 -basak
--oglak
-```
+-oglak```
 
 Modulu kullandiginiz icin tesekkur ederim.
