@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/The-Special/burclar)
 ![Commits](https://img.shields.io/github/commit-activity/w/The-Special/burclar)
 
-# Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
+Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
 Modulun kullanimi asiri basit:
 
 
@@ -36,7 +36,7 @@ print(yay)
 
 - Bunun haricinde bir kullanimi yoktur. yay yazan yerlere farkli burclari yazarak bilgiler alabilirsiniz.
 
-# Burclar:
+## Burclar:
 
 ```-terazi
 -boga
