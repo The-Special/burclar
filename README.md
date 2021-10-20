@@ -3,9 +3,9 @@
 ![Stars](https://img.shields.io/github/stars/The-Special/burclar)
 ![Commits](https://img.shields.io/github/commit-activity/w/The-Special/burclar)
 
-## Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
+- Bu modulu burclar hakkinda gundelik bir sekilde bilgi alin diye yaptim ve sizler icin kullanima sunuyorum.
 
-- Modulun kullanimi:
+## Modulun kullanimi:
 
 
 ```
