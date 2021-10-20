@@ -39,17 +39,17 @@ print(yay)
 
 ## Burclar:
 
-```-terazi
--boga
--yay
--akrep
--kova
--aslan
--ikizler
--balik 
--koc
--yengec
--basak
--oglak```
+```- terazi
+- boga
+- yay
+- akrep
+- kova
+- aslan
+- ikizler
+- balik 
+- koc
+- yengec
+- basak
+- oglak```
 
 Modulu kullandiginiz icin tesekkur ederim.
