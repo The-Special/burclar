@@ -54,4 +54,4 @@ print(yay)
 - oglak
 ```
 
-Modulu kullandiginiz icin tesekkur ederim.
+- Modulu kullandiginiz icin tesekkur ederim.
