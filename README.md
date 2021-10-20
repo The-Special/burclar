@@ -39,7 +39,8 @@ print(yay)
 
 ## Burclar:
 
-```- terazi
+```
+- terazi
 - boga
 - yay
 - akrep
